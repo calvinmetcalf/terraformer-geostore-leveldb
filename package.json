@@ -11,10 +11,10 @@
   "license": "BSD",
   "devDependencies": {
     "jshint": "^2.4.4",
-    "leveldown": "~0.10.2",
     "tape": "~2.10.2"
   },
   "dependencies": {
-    "levelup": "~0.18.2"
+    "levelup": "~0.18.2",
+    "leveldown": "~0.10.2"
   }
 }
